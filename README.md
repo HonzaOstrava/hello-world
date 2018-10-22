@@ -1,2 +1,2 @@
 # hello-world
-Testing purposes
+Just for testing purposes
